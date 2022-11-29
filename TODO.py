@@ -11,3 +11,15 @@ Astraiers Build Instruction
 
 Thêm chức năng init cho từng module:
     VD: Setup .ass folder, download dependces
+
+Thêm các chức năng mass run:
+    git pull đồng thời cho các module
+    git push đồng thời cùng chung 1 commit + description cho các module
+
+Edit tương tác dạng gui để dev tiện làm việc hơn
+
+
+
+
+_bi.json:
+Them action dựng sẵn cho vụ build file
